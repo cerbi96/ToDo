@@ -1,0 +1,54 @@
+
+
+.check{
+  display: inline-block;
+ 
+}
+
+.deleteTask{
+  margin-top:10%;
+  margin-bottom: 10%;
+  -moz-box-shadow:inset 0px 39px 0px -24px #fa1105;
+	-webkit-box-shadow:inset 0px 39px 0px -24px #fa1105;
+	box-shadow:inset 0px 39px 0px -24px #fa1105;
+	background-color:#fa1105;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e61405;
+}
+.deleteTask:hover{
+  background-color:#fa1105;
+}
+
+
+.addTask{
+  margin-top:10%;
+  -moz-box-shadow:inset 0px 39px 0px -24px #3dc21b;
+	-webkit-box-shadow:inset 0px 39px 0px -24px #3dc21b;
+	box-shadow:inset 0px 39px 0px -24px #3dc21b;
+	background-color:#44c767;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.addTask:hover{
+  background-color:#5cbf2a;
+}
